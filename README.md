@@ -9,3 +9,5 @@ This code:
 
 
 The error in cell 16 is just due to not being able to find the scraped files. This should be resolved by running the code again.
+
+Also I added an infographic that I completed to capture the information
